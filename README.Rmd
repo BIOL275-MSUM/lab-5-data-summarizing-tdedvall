@@ -4,6 +4,24 @@ author: "Tyler Edvall"
 date: "2021-02-23"
 output: github_document
 ---
+Objectives: 
+
+ -Rename variables
+
+ -Create new variables
+
+ -Summarize a dataset
+
+ -Summarize a dataset by groups
+
+ -Visualize the relationship between variables
+
+  -Numerical and categorical variable
+  -Two numerical variables
+  -Three variables
+
+
+
 
 1. Rename each variable so that it is all lower-case and uses an underscore _ instead of a period . in the name (the recommended coding style in the tidyverse style guide). Print the resulting table.
 
